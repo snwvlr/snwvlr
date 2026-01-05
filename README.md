@@ -8,6 +8,11 @@
 
   <h1 style="font-size: 38px; margin: 15px 0 0 0; color: #fff; letter-spacing: 4px; text-transform: uppercase; text-shadow: 0 0 25px #7B2CBF;">
     SNWVLR
+  <div align="center">
+  <a href="https://github.com/snwvlr">
+    <img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_ORLIXYS_CORE-7B2CBF?style=for-the-badge&logo=python&logoColor=white&labelColor=050505"/>
+  </a>
+</div>
   </h1>
   
   <p style="font-family: monospace; color: #aaa; font-size: 13px; margin-top: 10px; margin-bottom: 25px;">
