@@ -13,6 +13,11 @@
     <img src="https://img.shields.io/badge/CURRENT_STATUS-BUILDING_ORLIXYS_CORE-7B2CBF?style=for-the-badge&logo=python&logoColor=white&labelColor=050505"/>
   </a>
 </div>
+    <div align="center">
+  <a href="https://github.com/sponsors/snwvlr">
+    <img src="https://img.shields.io/badge/SPONSOR-ACCESS%20ORLIXYS%20CORE-purple?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Orlixys"/>
+  </a>
+</div>
   </h1>
   
   <p style="font-family: monospace; color: #aaa; font-size: 13px; margin-top: 10px; margin-bottom: 25px;">
