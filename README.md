@@ -88,7 +88,7 @@ Disposable email built on the opposite principle of every disposable email servi
   <img src="https://img.shields.io/badge/korppimail.com-FFFFFF?style=for-the-badge&labelColor=000000" alt="site"/>
 </a>
 <a href="https://github.com/Korppi-Mail">
-  <img src="https://img.shields.io/badge/GitHub-Korppi--Mail-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=FFFFFF" alt="github"/>
+  <img src="https://img.shields.io/badge/GitHub-Korppi--Mail-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="github"/>
 </a>
 <a href="https://chromewebstore.google.com/detail/korppi-mail/jlnnniihabchoaocbpfmecnkekdgnhgp">
   <img src="https://img.shields.io/badge/Chrome_Extension-Live-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="chrome"/>
@@ -306,10 +306,10 @@ Suite de imagem em lote: <b>Conversor Orbital</b> (WebP e formatos web), <b>Reco
   <img src="https://img.shields.io/badge/GitHub-snwvlr-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=FFFFFF" alt="github"/>
 </a>
 <a href="https://github.com/Orlixys">
-  <img src="https://img.shields.io/badge/Orlixys-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="orlixys"/>
+  <img src="https://img.shields.io/badge/Orlixys-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="orlixys"/>
 </a>
 <a href="https://github.com/Korppi-Mail">
-  <img src="https://img.shields.io/badge/Korppi--Mail-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=FFFFFF" alt="korppi"/>
+  <img src="https://img.shields.io/badge/Korppi--Mail-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="korppi"/>
 </a>
 
 <br/>
